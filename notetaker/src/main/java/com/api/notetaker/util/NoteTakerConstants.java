@@ -13,4 +13,6 @@ public interface NoteTakerConstants {
 	
 	
 	//
+	String ID ="id";
+	String SESSION_TIMEOUT = "Session Timeout";
 }
